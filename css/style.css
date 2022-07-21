@@ -51,15 +51,15 @@ body {
 }
 
 .profile p {
-  font-size: 13px;
-  margin-top: 1rem;
+  font-size: 14px;
+  margin-top: 3rem;
   margin-bottom: 4rem;
   color: #606060;
 }
 
 .social-menu ul{
   position: absolute;
-  top: 85%;
+  top: 90%;
   left: 50%;
   padding: 0;
   margin: 0;
