@@ -80,7 +80,7 @@ body {
 }
 
 .social-menu ul li .fab:hover{
-  color: #fff;
+  color: whitesmoke;
 }
 
 .social-menu ul li a{
@@ -89,7 +89,7 @@ body {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: whitesmoke;
   text-align: center;
   transition: .6s;
   box-shadow: 0 5px 4px rgba(0,0,0,.5);
