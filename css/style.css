@@ -21,7 +21,7 @@ body {
   align-items: center;
   justify-items: center;
   height: 100vh;
-  color: whitesmoke;
+  color: #61ffca;
 }
 
 .title {
@@ -31,7 +31,7 @@ body {
 }
 
 .box {
-  background: #13141f;
+  background: #110f18;
   padding: 2rem;
   box-shadow: 1px 2px 16px black;
   border-radius: 40px;
@@ -50,14 +50,14 @@ body {
 
 .profile span {
   font-size: 20px;
-  color: #606060;
+  color: #edecee;
 }
 
 .profile p {
   font-size: 15px;
   margin-top: 1rem;
   margin-bottom: 4rem;
-  color: #606060;
+  color: #533197;
 }
 
 .social-menu ul{
@@ -79,11 +79,11 @@ body {
   font-size: 35px;
   line-height: 60px;
   transition: .3s;
-  color: whitesmoke;
+  color: #edecee;
 }
 
 .social-menu ul li .fab:hover{
-  color: whitesmoke;
+  color: #edecee;
 }
 
 .social-menu ul li a{
@@ -92,7 +92,7 @@ body {
   width: 60px;
   height: 60px;
   border-radius: 40%;
-  background-color: #543196;
+  background-color: #4d4d4d;
   text-align: center;
   transition: .6s;
   box-shadow: 0 5px 4px black;
@@ -148,7 +148,7 @@ body {
 
 .copyright {
   font-size: 24px;
-  color: white;
-  text-shadow: 2px 2px 2px black;
+  color: #edecee;
+  text-shadow: 0px 2px 2px black;
   margin: 50vh 0;
 }
