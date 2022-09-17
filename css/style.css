@@ -45,6 +45,7 @@ body {
   max-width:300px;
   max-height:250px;
   margin-top: 10px;
+  animation: fromTop .7s .2s backwards;
 }
 
 .profile span {
