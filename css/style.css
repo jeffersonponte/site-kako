@@ -5,7 +5,7 @@
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 1%;
 }
 
 li {
@@ -37,6 +37,7 @@ body {
   border-radius: 40px;
   text-align: center;
   margin-top: 10rem;
+  
 }
 
 .profile-pic {
@@ -46,6 +47,7 @@ body {
   max-height:250px;
   margin-top: 10px;
   animation: fromTop .7s .2s backwards;
+  box-shadow: 0 5px 4px black;
 }
 
 .profile span {
