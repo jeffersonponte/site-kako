@@ -24,6 +24,7 @@ body {
   color: #61ffca;
 }
 
+
 .title {
   font-size: 40px;
   font-weight: bold;
@@ -33,11 +34,11 @@ body {
 
 .box {
   background: #111113;
-  padding: 3%;
+  padding: 5%;
   box-shadow: 1px 2px 16px black;
   border-radius: 40px;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 5%;
   
 }
 
