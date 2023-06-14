@@ -1,13 +1,14 @@
 # Site Pessoal
- > Site inicial de portfolio e redes socias - kako.dev
+ > Site inicial de portfolio e redes socias - jefferson.dev
 
  ![page](./.github/page.png)
 
  Projeto inicial
 
- [Clique aqui para acessar](https://kako.dev)
+ [Clique aqui para acessar](https://jefferson.dev)
 
  ## Tecnologias
  - Html
  - Css
+ - JavaScript
  - Github
